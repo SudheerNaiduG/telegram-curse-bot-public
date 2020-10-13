@@ -6,6 +6,7 @@ The script should be running for the bot to work.
 
 ## Evil-insult
 For this bot,I used [Evil-insult-generator](https://evilinsult.com/generate_insult.php?lang=en&type=text) for the random curses.
+PS: **The curses maybe offensive.**
 
 ## Process
 
