@@ -14,7 +14,7 @@ def curser(update,context):
 
 
 def main():
-    updater = Updater('1160032717:AAFdQtK-psKxtXD0Y-mXrgUC-DJyRkP4Qpk',use_context=True)
+    updater = Updater('paste the bot token from botfather in telegram',use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('curser',curser))
     updater.start_polling()
