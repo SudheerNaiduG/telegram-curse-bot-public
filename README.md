@@ -15,6 +15,7 @@ Voila..run the code and you have your cursing bot up and running.
 Use the command `/curser` in the bot and it will reply a random curse  
 
 ## Note
-If you are running it in your cmd or colab you have to install the `python-telegram-bot` module
+If you are running it in your cmd or colab you have to install the `python-telegram-bot` library and the requests library.  
 You can install this by using  
 `pip3 install python-telegram-bot`
+`pip3 install requests`
